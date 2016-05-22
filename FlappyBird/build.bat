@@ -1,0 +1,1 @@
+javac Game.java Model.java View.java Pie.java Controller.java Bird.java Tube.java
